@@ -45,7 +45,6 @@ html[xmlns] .slides {display: block;}
 .flexslider.top_slider:before {
 	content:'';
 	position:absolute;
-	z-index:3;
 	left:0;
 	bottom:0;
 	width:100%;
@@ -70,7 +69,6 @@ html[xmlns] .slides {display: block;}
 
 .flexslider.top_slider .flex-direction-nav li a {
 	position:absolute;
-	z-index:300;
 	bottom:50px;
 	display:block;
 	width:70px;
